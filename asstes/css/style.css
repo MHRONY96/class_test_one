@@ -15,12 +15,6 @@ body{
 	margin: 5px;
 	font-size: 14px;
 }
-.search_bd{
-	float: right;
-}
-.search{
-	float: right;
-}
 .head_section ul{
 	margin: 0px;
 	list-style-type: none;
@@ -40,7 +34,19 @@ body{
 	color: white;
 	text-decoration: none;
 }
+.search_bd{
+	float: right;
+	margin: 5px;
+	background: #216C09;
+	color: white;
+	padding: 5px;
+}
+.search{
+	float: right;
+	margin: 5px;
+}
 
-.header_seciton_02{
-
+.bg_image{
+	height: 217px;
+	width: 968px;
 }
