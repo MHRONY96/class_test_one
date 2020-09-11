@@ -1,0 +1,36 @@
+*{margin: 0px; padding:0px; outline: 0px}
+body{
+	background: white;
+	width: 1025px; margin: 0px auto;
+}
+.temp{width: 968px; margin: 0px auto;}
+.head_section{
+	background-color: #683091;
+	height: 66px;
+	margin-top: 15px;
+}
+.head_section p{
+	color: #FFFCF1;
+	float: left;
+	margin: 5px;
+	font-size: 14px;
+}
+.head_section ul{
+	margin: 0px;
+	list-style-type: none;
+
+}
+.head_section li{
+	float: right;
+	padding: 5px;
+	margin:5px;
+	background: #B299E4;
+	border-radius: 2px;
+}
+.head_section li:hover{
+	background: #683091;
+}
+.head_section ul li a{
+	color: white;
+	text-decoration: none;
+}
