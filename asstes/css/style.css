@@ -15,13 +15,19 @@ body{
 	margin: 5px;
 	font-size: 14px;
 }
+.search_bd{
+	float: right;
+}
+.search{
+	float: right;
+}
 .head_section ul{
 	margin: 0px;
 	list-style-type: none;
+	float: right;
 
 }
 .head_section li{
-	float: right;
 	padding: 5px;
 	margin:5px;
 	background: #B299E4;
@@ -33,4 +39,8 @@ body{
 .head_section ul li a{
 	color: white;
 	text-decoration: none;
+}
+
+.header_seciton_02{
+
 }
